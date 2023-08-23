@@ -1,5 +1,4 @@
-﻿]
-namespace DependencyStore.Services.Contracts
+﻿namespace DependencyStore.Services.Contracts
 {
     public interface IDeliveryFeeService
     {
